@@ -11,6 +11,12 @@ namespace PrimeraAplicacion
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");  /*esto imprime */
+            
+            int edad=28;
+
+
+            Console.WriteLine(edad);
+        
         }
     }
 }
