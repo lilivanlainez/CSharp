@@ -5,3 +5,10 @@ C:\Users\DELL-PRECISION\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicac
 C:\Users\DELL-PRECISION\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.CoreCompileInputs.cache
 C:\Users\DELL-PRECISION\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.exe
 C:\Users\DELL-PRECISION\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.pdb
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe.config
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.pdb
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.exe
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.pdb
