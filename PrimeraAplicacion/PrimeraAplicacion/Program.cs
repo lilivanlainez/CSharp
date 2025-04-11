@@ -10,6 +10,7 @@ namespace PrimeraAplicacion
     {
         static void Main(string[] args)
         {
+<<<<<<< Updated upstream
             int edadPersona1;
             int edadPersona2;
             int edadPersona3;
@@ -37,6 +38,13 @@ namespace PrimeraAplicacion
             long habitantesCiudad2018 = habitantesCiudades;
 
 
+=======
+            Console.WriteLine(7*5);
+            int edad = 19;
+            Console.WriteLine("Tienes unda edad de: " + 19);
+            Console.WriteLine($"Tienes una edad de: {19} anos");
+
+>>>>>>> Stashed changes
         }
     }
 }
