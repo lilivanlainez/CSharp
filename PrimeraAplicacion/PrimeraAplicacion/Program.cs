@@ -11,15 +11,33 @@ namespace PrimeraAplicacion
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(restaNumeros(5,6));
             
-            const double PI = 3.1416;
+            void mensajeEnPantalla()
+            {
+                Console.WriteLine("Mensaje desde el metodo");
+            }
+            int sumaNumeros()
+            {
+                int num1 = 7;
+                int num2 = 7;
+
+                int resultado = num1 + num2;
+                return resultado;
+            }
+
+            Console.WriteLine(sumaNumeros());
+            mensajeEnPantalla();
 
             
-            double radio = double.Parse(Console.ReadLine());
-            double area = radio * radio * PI;
-            Console.WriteLine($"El area del circulo es: {area}");
+
 
 
         }
+        private static int restaNumeros(int num1, int num2)
+        {
+            return num2 - num1;
+        }
+
     }
 }
