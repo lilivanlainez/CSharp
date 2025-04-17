@@ -12,9 +12,34 @@ namespace PrimeraAplicacion
     
         static void Main(string[] args)
         {
-            Console.WriteLine(suma(2,44));    
+            int edad;
+            Console.WriteLine("Introduce tu edad");
+            edad = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Vamos a evaluar si eres mayor de edad");
+
+            if(edad >= 18)
+            {
+                Console.WriteLine("Adelante puedes pasar porque eres mayor de edad");
+            }
+            else
+            {
+                Console.WriteLine("No puedes pasar, regresa cuando seas mayor de edad");
+            }
+
+            Console.WriteLine("Tienes Licencia de conducir?");
+            string carnet= Console.ReadLine();
+
+            if(edad>=18 && carnet == "si")
+            {
+                Console.WriteLine("Puedes conducir");
+            }else
+            {
+                Console.WriteLine("Lo  siento, no puedes conducir");
+            }
+
         }
 
-        private static int suma(int num1, int num2) => num1 + num2;
+       
     }
 }
