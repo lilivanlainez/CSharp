@@ -9,28 +9,25 @@ namespace PrimeraAplicacion
 {
     class Program
     {
-    
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Escribe la hora");
+            int z = 0;
 
-            int hora = int.Parse(Console.ReadLine());
-
-            switch (hora)
+            while (z < 10)
             {
-                case int n when n<12:
-                    Console.WriteLine("Buenos dias");
-                    break;
-                case int n when n > 12 && n <18:
-                    Console.WriteLine("Buenas Tardes");
-                    break;
-                case int n when n > 18 && n < 24:
-                    Console.WriteLine("Buenas noches");
-                    break;
-                default:
-                    Console.WriteLine("No se que horas son");
-                    break;
+                Console.WriteLine($"el numero de vuelta es: {z}");
+                z++;
             }
+            int a = 0;
+            Console.WriteLine("DO WHILE");
+            do
+            {
+                Console.WriteLine($"El numero de vuelta es: {a}");
+            } while (a == 10);
+
+                Console.WriteLine();
+            
             
 
         }
