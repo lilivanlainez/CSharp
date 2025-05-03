@@ -12,23 +12,28 @@ namespace PrimeraAplicacion
 
         static void Main(string[] args)
         {
-            int z = 0;
+            Random rnd = new Random();
+            int aleatorio = rnd.Next(0, 100);
+            int minumero;
+            int intentos = 0;
 
-            while (z < 10)
+            Console.WriteLine("Introduce un numero entre 0 y 100");
+            try
             {
-                Console.WriteLine($"el numero de vuelta es: {z}");
-                z++;
+                do
+                {
+                    intentos++;
+                    minumero = int.Parse(Console.ReadLine());
+                    if (minumero > aleatorio) Console.WriteLine("El numero es mas bajo");
+                    if (minumero < aleatorio) Console.WriteLine("El numero es mas alto");
+                } while (aleatorio != minumero);
+                Console.WriteLine($" Correcto! Hasnecesitado {intentos} intentos");
             }
-            int a = 0;
-            Console.WriteLine("DO WHILE");
-            do
+            catch (FormatException)
             {
-                Console.WriteLine($"El numero de vuelta es: {a}");
-            } while (a == 10);
-
-                Console.WriteLine();
+                Console.WriteLine("No has introducido el valor correcto");
             
-            
+            }
 
         }
 
