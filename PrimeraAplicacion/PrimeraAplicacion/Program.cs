@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -29,11 +30,13 @@ namespace PrimeraAplicacion
                 } while (aleatorio != minumero);
                 Console.WriteLine($" Correcto! Hasnecesitado {intentos} intentos");
             }
-            catch (FormatException)
+            catch (Exception)
             {
                 Console.WriteLine("No has introducido el valor correcto");
             
             }
+
+
 
         }
 
