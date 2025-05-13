@@ -13,33 +13,21 @@ namespace PrimeraAplicacion
 
         static void Main(string[] args)
         {
-            Random rnd = new Random();
-            int aleatorio = rnd.Next(0, 100);
-            int minumero;
-            int intentos = 0;
+            Circulo calculo = new Circulo();
+            double circuloUno = calculo.calculoArea(12);
 
-            Console.WriteLine("Introduce un numero entre 0 y 100");
-            try
-            {
-                do
-                {
-                    intentos++;
-                    minumero = int.Parse(Console.ReadLine());
-                    if (minumero > aleatorio) Console.WriteLine("El numero es mas bajo");
-                    if (minumero < aleatorio) Console.WriteLine("El numero es mas alto");
-                } while (aleatorio != minumero);
-                Console.WriteLine($" Correcto! Hasnecesitado {intentos} intentos");
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("No has introducido el valor correcto");
-            
-            }
-
-
+            Console.WriteLine(circuloUno);
 
         }
 
        
+    }
+    class Circulo
+    {
+        private double pi = Math.PI; //propiedad de la clase circulo o campos de clase
+
+        public double calculoArea(int radio) {  return pi * radio; }
+
+        
     }
 }
