@@ -6,6 +6,12 @@ namespace PrimeraAplicacion
     {
         static void Main(string[] args)
         {
+
+            var MiVariable = new { Nombre = "Ivan", Edad = 19 };
+
+            Console.WriteLine("mi nombre es " + MiVariable.Nombre + " y tengo " + MiVariable.Edad + " anios");
+            Console.WriteLine($"mi nombre es {MiVariable.Nombre} y tendo {MiVariable.Edad} anios");
+            /*
             // Crear un objeto coche
             Coche miCoche = new Coche("Toyota", "Corolla", 2020, 25000);
             
@@ -28,6 +34,7 @@ namespace PrimeraAplicacion
             // Intentar establecer un precio negativo (se rechazará)
             miCoche.Precio = -1000;
             Console.WriteLine($"Precio después de intento inválido: {miCoche.Precio}");
+            */
         }
     }
 
