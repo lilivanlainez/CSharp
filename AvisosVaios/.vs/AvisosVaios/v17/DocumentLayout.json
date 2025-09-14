@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nelso\\OneDrive\\Documentos\\GitHub\\CSharp\\AvisosVaios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23B136E2-42B2-455E-A9DB-3569DE7F2426}|AvisosVaios\\AvisosVaios.csproj|c:\\users\\nelso\\onedrive\\documentos\\github\\csharp\\avisosvaios\\avisosvaios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23B136E2-42B2-455E-A9DB-3569DE7F2426}|AvisosVaios\\AvisosVaios.csproj|solutionrelative:avisosvaios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23B136E2-42B2-455E-A9DB-3569DE7F2426}|AvisosVaios\\AvisosVaios.csproj|c:\\users\\nelso\\onedrive\\documentos\\github\\csharp\\avisosvaios\\avisosvaios\\avisostrrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23B136E2-42B2-455E-A9DB-3569DE7F2426}|AvisosVaios\\AvisosVaios.csproj|solutionrelative:avisosvaios\\avisostrrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23B136E2-42B2-455E-A9DB-3569DE7F2426}|AvisosVaios\\AvisosVaios.csproj|c:\\users\\nelso\\onedrive\\documentos\\github\\csharp\\avisosvaios\\avisosvaios\\iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23B136E2-42B2-455E-A9DB-3569DE7F2426}|AvisosVaios\\AvisosVaios.csproj|solutionrelative:avisosvaios\\iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B136E2-42B2-455E-A9DB-3569DE7F2426}|AvisosVaios\\AvisosVaios.csproj|c:\\users\\nelso\\onedrive\\documentos\\github\\csharp\\avisosvaios\\avisosvaios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B136E2-42B2-455E-A9DB-3569DE7F2426}|AvisosVaios\\AvisosVaios.csproj|solutionrelative:avisosvaios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AvisosTrrafico.cs",
               "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Documentos\\GitHub\\CSharp\\AvisosVaios\\AvisosVaios\\AvisosTrrafico.cs",
               "RelativeDocumentMoniker": "AvisosVaios\\AvisosTrrafico.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IAvisos.cs",
               "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Documentos\\GitHub\\CSharp\\AvisosVaios\\AvisosVaios\\IAvisos.cs",
               "RelativeDocumentMoniker": "AvisosVaios\\IAvisos.cs",
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Documentos\\GitHub\\CSharp\\AvisosVaios\\AvisosVaios\\Program.cs",
               "RelativeDocumentMoniker": "AvisosVaios\\Program.cs",

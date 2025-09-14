@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelso\\OneDrive\\Documentos\\GitHub\\CSharp\\diccionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74791AE7-4873-45F2-817A-9D4C2F013478}|diccionario\\diccionario.csproj|c:\\users\\nelso\\onedrive\\documentos\\github\\csharp\\diccionario\\diccionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74791AE7-4873-45F2-817A-9D4C2F013478}|diccionario\\diccionario.csproj|solutionrelative:diccionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Documentos\\GitHub\\CSharp\\diccionario\\diccionario\\Program.cs",
+              "RelativeDocumentMoniker": "diccionario\\Program.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Documentos\\GitHub\\CSharp\\diccionario\\diccionario\\Program.cs",
+              "RelativeToolTip": "diccionario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:37:19.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

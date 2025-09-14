@@ -1,0 +1,15 @@
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\bin\Debug\net8.0\clasesAdstractas.exe
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\bin\Debug\net8.0\clasesAdstractas.deps.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\bin\Debug\net8.0\clasesAdstractas.runtimeconfig.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\bin\Debug\net8.0\clasesAdstractas.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\bin\Debug\net8.0\clasesAdstractas.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\obj\Debug\net8.0\clasesAdstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\obj\Debug\net8.0\clasesAdstractas.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\obj\Debug\net8.0\clasesAdstractas.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\obj\Debug\net8.0\clasesAdstractas.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\obj\Debug\net8.0\clasesAdstractas.sourcelink.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\obj\Debug\net8.0\clasesAdstractas.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\obj\Debug\net8.0\refint\clasesAdstractas.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\obj\Debug\net8.0\clasesAdstractas.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\obj\Debug\net8.0\clasesAdstractas.genruntimeconfig.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesAdstractas\clasesAdstractas\obj\Debug\net8.0\ref\clasesAdstractas.dll

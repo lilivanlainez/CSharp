@@ -1,0 +1,15 @@
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\bin\Debug\net8.0\clasesSelladas.exe
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\bin\Debug\net8.0\clasesSelladas.deps.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\bin\Debug\net8.0\clasesSelladas.runtimeconfig.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\bin\Debug\net8.0\clasesSelladas.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\bin\Debug\net8.0\clasesSelladas.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\obj\Debug\net8.0\clasesSelladas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\obj\Debug\net8.0\clasesSelladas.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\obj\Debug\net8.0\clasesSelladas.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\obj\Debug\net8.0\clasesSelladas.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\obj\Debug\net8.0\clasesSelladas.sourcelink.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\obj\Debug\net8.0\clasesSelladas.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\obj\Debug\net8.0\refint\clasesSelladas.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\obj\Debug\net8.0\clasesSelladas.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\obj\Debug\net8.0\clasesSelladas.genruntimeconfig.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\clasesSelladas\clasesSelladas\obj\Debug\net8.0\ref\clasesSelladas.dll
