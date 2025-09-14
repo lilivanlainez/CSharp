@@ -1,0 +1,15 @@
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net8.0\DelegadosPredicadosLambdas.exe
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net8.0\DelegadosPredicadosLambdas.deps.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net8.0\DelegadosPredicadosLambdas.runtimeconfig.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net8.0\DelegadosPredicadosLambdas.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net8.0\DelegadosPredicadosLambdas.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net8.0\DelegadosPredicadosLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net8.0\DelegadosPredicadosLambdas.AssemblyInfoInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net8.0\DelegadosPredicadosLambdas.AssemblyInfo.cs
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net8.0\DelegadosPredicadosLambdas.csproj.CoreCompileInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net8.0\DelegadosPredicadosLambdas.sourcelink.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net8.0\DelegadosPredicadosLambdas.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net8.0\refint\DelegadosPredicadosLambdas.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net8.0\DelegadosPredicadosLambdas.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net8.0\DelegadosPredicadosLambdas.genruntimeconfig.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net8.0\ref\DelegadosPredicadosLambdas.dll

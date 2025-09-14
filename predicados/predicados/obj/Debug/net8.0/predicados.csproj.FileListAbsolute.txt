@@ -1,0 +1,15 @@
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\bin\Debug\net8.0\predicados.exe
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\bin\Debug\net8.0\predicados.deps.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\bin\Debug\net8.0\predicados.runtimeconfig.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\bin\Debug\net8.0\predicados.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\bin\Debug\net8.0\predicados.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\obj\Debug\net8.0\predicados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\obj\Debug\net8.0\predicados.AssemblyInfoInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\obj\Debug\net8.0\predicados.AssemblyInfo.cs
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\obj\Debug\net8.0\predicados.csproj.CoreCompileInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\obj\Debug\net8.0\predicados.sourcelink.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\obj\Debug\net8.0\predicados.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\obj\Debug\net8.0\refint\predicados.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\obj\Debug\net8.0\predicados.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\obj\Debug\net8.0\predicados.genruntimeconfig.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\predicados\predicados\obj\Debug\net8.0\ref\predicados.dll
