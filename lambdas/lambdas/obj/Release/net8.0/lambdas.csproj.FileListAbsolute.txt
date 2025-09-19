@@ -1,0 +1,15 @@
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\bin\Release\net8.0\lambdas.exe
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\bin\Release\net8.0\lambdas.deps.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\bin\Release\net8.0\lambdas.runtimeconfig.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\bin\Release\net8.0\lambdas.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\bin\Release\net8.0\lambdas.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\obj\Release\net8.0\lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\obj\Release\net8.0\lambdas.AssemblyInfoInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\obj\Release\net8.0\lambdas.AssemblyInfo.cs
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\obj\Release\net8.0\lambdas.csproj.CoreCompileInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\obj\Release\net8.0\lambdas.sourcelink.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\obj\Release\net8.0\lambdas.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\obj\Release\net8.0\refint\lambdas.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\obj\Release\net8.0\lambdas.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\obj\Release\net8.0\lambdas.genruntimeconfig.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\lambdas\lambdas\obj\Release\net8.0\ref\lambdas.dll

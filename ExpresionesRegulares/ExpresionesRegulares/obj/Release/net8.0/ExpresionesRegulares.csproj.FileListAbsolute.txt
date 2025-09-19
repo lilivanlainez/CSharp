@@ -1,0 +1,15 @@
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\bin\Release\net8.0\ExpresionesRegulares.exe
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\bin\Release\net8.0\ExpresionesRegulares.deps.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\bin\Release\net8.0\ExpresionesRegulares.runtimeconfig.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\bin\Release\net8.0\ExpresionesRegulares.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\bin\Release\net8.0\ExpresionesRegulares.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\obj\Release\net8.0\ExpresionesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\obj\Release\net8.0\ExpresionesRegulares.AssemblyInfoInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\obj\Release\net8.0\ExpresionesRegulares.AssemblyInfo.cs
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\obj\Release\net8.0\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\obj\Release\net8.0\ExpresionesRegulares.sourcelink.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\obj\Release\net8.0\ExpresionesRegulares.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\obj\Release\net8.0\refint\ExpresionesRegulares.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\obj\Release\net8.0\ExpresionesRegulares.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\obj\Release\net8.0\ExpresionesRegulares.genruntimeconfig.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\ExpresionesRegulares\ExpresionesRegulares\obj\Release\net8.0\ref\ExpresionesRegulares.dll
