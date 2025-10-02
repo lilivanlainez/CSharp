@@ -1,0 +1,15 @@
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\bin\Release\net8.0\StackColection.exe
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\bin\Release\net8.0\StackColection.deps.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\bin\Release\net8.0\StackColection.runtimeconfig.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\bin\Release\net8.0\StackColection.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\bin\Release\net8.0\StackColection.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\obj\Release\net8.0\StackColection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\obj\Release\net8.0\StackColection.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\obj\Release\net8.0\StackColection.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\obj\Release\net8.0\StackColection.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\obj\Release\net8.0\StackColection.sourcelink.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\obj\Release\net8.0\StackColection.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\obj\Release\net8.0\refint\StackColection.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\obj\Release\net8.0\StackColection.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\obj\Release\net8.0\StackColection.genruntimeconfig.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\StackColection\StackColection\obj\Release\net8.0\ref\StackColection.dll

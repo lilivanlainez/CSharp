@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IvanW11_NAS\\Documents\\GitHub\\CSharp\\DelegadosPredicadosLambdas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37AF8294-4307-466D-B4CA-DD7A1C5B79D9}|DelegadosPredicadosLambdas\\DelegadosPredicadosLambdas.csproj|c:\\users\\ivanw11_nas\\documents\\github\\csharp\\delegadospredicadoslambdas\\delegadospredicadoslambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AF8294-4307-466D-B4CA-DD7A1C5B79D9}|DelegadosPredicadosLambdas\\DelegadosPredicadosLambdas.csproj|solutionrelative:delegadospredicadoslambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IvanW11_NAS\\Documents\\GitHub\\CSharp\\DelegadosPredicadosLambdas\\DelegadosPredicadosLambdas\\Program.cs",
+              "RelativeDocumentMoniker": "DelegadosPredicadosLambdas\\Program.cs",
+              "ToolTip": "C:\\Users\\IvanW11_NAS\\Documents\\GitHub\\CSharp\\DelegadosPredicadosLambdas\\DelegadosPredicadosLambdas\\Program.cs",
+              "RelativeToolTip": "DelegadosPredicadosLambdas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T04:06:42.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

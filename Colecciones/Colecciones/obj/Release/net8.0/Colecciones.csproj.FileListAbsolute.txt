@@ -1,0 +1,15 @@
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\bin\Release\net8.0\Colecciones.exe
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\bin\Release\net8.0\Colecciones.deps.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\bin\Release\net8.0\Colecciones.runtimeconfig.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\bin\Release\net8.0\Colecciones.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\bin\Release\net8.0\Colecciones.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\obj\Release\net8.0\Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\obj\Release\net8.0\Colecciones.AssemblyInfoInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\obj\Release\net8.0\Colecciones.AssemblyInfo.cs
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\obj\Release\net8.0\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\obj\Release\net8.0\Colecciones.sourcelink.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\obj\Release\net8.0\Colecciones.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\obj\Release\net8.0\refint\Colecciones.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\obj\Release\net8.0\Colecciones.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\obj\Release\net8.0\Colecciones.genruntimeconfig.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Colecciones\Colecciones\obj\Release\net8.0\ref\Colecciones.dll

@@ -1,0 +1,15 @@
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\bin\Debug\net8.0\genericosRestricciones.exe
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\bin\Debug\net8.0\genericosRestricciones.deps.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\bin\Debug\net8.0\genericosRestricciones.runtimeconfig.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\bin\Debug\net8.0\genericosRestricciones.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\bin\Debug\net8.0\genericosRestricciones.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\obj\Debug\net8.0\genericosRestricciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\obj\Debug\net8.0\genericosRestricciones.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\obj\Debug\net8.0\genericosRestricciones.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\obj\Debug\net8.0\genericosRestricciones.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\obj\Debug\net8.0\genericosRestricciones.sourcelink.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\obj\Debug\net8.0\genericosRestricciones.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\obj\Debug\net8.0\refint\genericosRestricciones.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\obj\Debug\net8.0\genericosRestricciones.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\obj\Debug\net8.0\genericosRestricciones.genruntimeconfig.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\genericosRestricciones\genericosRestricciones\obj\Debug\net8.0\ref\genericosRestricciones.dll

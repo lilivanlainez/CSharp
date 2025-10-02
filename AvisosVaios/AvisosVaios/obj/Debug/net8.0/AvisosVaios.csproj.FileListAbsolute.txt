@@ -1,0 +1,15 @@
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\obj\Debug\net8.0\AvisosVaios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\obj\Debug\net8.0\AvisosVaios.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\obj\Debug\net8.0\AvisosVaios.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\obj\Debug\net8.0\AvisosVaios.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\obj\Debug\net8.0\AvisosVaios.sourcelink.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\bin\Debug\net8.0\AvisosVaios.exe
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\bin\Debug\net8.0\AvisosVaios.deps.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\bin\Debug\net8.0\AvisosVaios.runtimeconfig.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\bin\Debug\net8.0\AvisosVaios.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\bin\Debug\net8.0\AvisosVaios.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\obj\Debug\net8.0\AvisosVaios.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\obj\Debug\net8.0\refint\AvisosVaios.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\obj\Debug\net8.0\AvisosVaios.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\obj\Debug\net8.0\AvisosVaios.genruntimeconfig.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\AvisosVaios\AvisosVaios\obj\Debug\net8.0\ref\AvisosVaios.dll

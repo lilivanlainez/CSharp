@@ -1,0 +1,15 @@
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\bin\Debug\net8.0\emun.exe
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\bin\Debug\net8.0\emun.deps.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\bin\Debug\net8.0\emun.runtimeconfig.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\bin\Debug\net8.0\emun.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\bin\Debug\net8.0\emun.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\obj\Debug\net8.0\emun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\obj\Debug\net8.0\emun.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\obj\Debug\net8.0\emun.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\obj\Debug\net8.0\emun.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\obj\Debug\net8.0\emun.sourcelink.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\obj\Debug\net8.0\emun.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\obj\Debug\net8.0\refint\emun.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\obj\Debug\net8.0\emun.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\obj\Debug\net8.0\emun.genruntimeconfig.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\emun\emun\obj\Debug\net8.0\ref\emun.dll

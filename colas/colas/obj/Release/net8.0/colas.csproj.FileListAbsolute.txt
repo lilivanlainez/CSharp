@@ -1,0 +1,14 @@
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\bin\Release\net8.0\colas.exe
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\bin\Release\net8.0\colas.deps.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\bin\Release\net8.0\colas.runtimeconfig.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\bin\Release\net8.0\colas.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\obj\Release\net8.0\colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\obj\Release\net8.0\colas.AssemblyInfoInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\obj\Release\net8.0\colas.AssemblyInfo.cs
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\obj\Release\net8.0\colas.csproj.CoreCompileInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\obj\Release\net8.0\colas.sourcelink.json
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\obj\Release\net8.0\colas.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\obj\Release\net8.0\refint\colas.dll
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\obj\Release\net8.0\colas.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\obj\Release\net8.0\colas.genruntimeconfig.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\colas\colas\obj\Release\net8.0\ref\colas.dll

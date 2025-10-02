@@ -1,0 +1,15 @@
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\bin\Release\net8.0\diccionario.exe
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\bin\Release\net8.0\diccionario.deps.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\bin\Release\net8.0\diccionario.runtimeconfig.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\bin\Release\net8.0\diccionario.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\bin\Release\net8.0\diccionario.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\obj\Release\net8.0\diccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\obj\Release\net8.0\diccionario.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\obj\Release\net8.0\diccionario.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\obj\Release\net8.0\diccionario.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\obj\Release\net8.0\diccionario.sourcelink.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\obj\Release\net8.0\diccionario.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\obj\Release\net8.0\refint\diccionario.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\obj\Release\net8.0\diccionario.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\obj\Release\net8.0\diccionario.genruntimeconfig.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\diccionario\diccionario\obj\Release\net8.0\ref\diccionario.dll

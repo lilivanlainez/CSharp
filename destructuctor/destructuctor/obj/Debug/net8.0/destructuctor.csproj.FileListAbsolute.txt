@@ -1,0 +1,15 @@
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\bin\Debug\net8.0\destructuctor.exe
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\bin\Debug\net8.0\destructuctor.deps.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\bin\Debug\net8.0\destructuctor.runtimeconfig.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\bin\Debug\net8.0\destructuctor.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\bin\Debug\net8.0\destructuctor.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\obj\Debug\net8.0\destructuctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\obj\Debug\net8.0\destructuctor.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\obj\Debug\net8.0\destructuctor.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\obj\Debug\net8.0\destructuctor.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\obj\Debug\net8.0\destructuctor.sourcelink.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\obj\Debug\net8.0\destructuctor.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\obj\Debug\net8.0\refint\destructuctor.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\obj\Debug\net8.0\destructuctor.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\obj\Debug\net8.0\destructuctor.genruntimeconfig.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\destructuctor\destructuctor\obj\Debug\net8.0\ref\destructuctor.dll

@@ -1,0 +1,15 @@
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\bin\Debug\net8.0\properties.exe
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\bin\Debug\net8.0\properties.deps.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\bin\Debug\net8.0\properties.runtimeconfig.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\bin\Debug\net8.0\properties.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\bin\Debug\net8.0\properties.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\obj\Debug\net8.0\properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\obj\Debug\net8.0\properties.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\obj\Debug\net8.0\properties.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\obj\Debug\net8.0\properties.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\obj\Debug\net8.0\properties.sourcelink.json
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\obj\Debug\net8.0\properties.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\obj\Debug\net8.0\refint\properties.dll
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\obj\Debug\net8.0\properties.pdb
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\obj\Debug\net8.0\properties.genruntimeconfig.cache
+C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\properties\properties\obj\Debug\net8.0\ref\properties.dll
