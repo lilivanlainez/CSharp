@@ -6,120 +6,33 @@ namespace PrimeraAplicacion
     {
         static void Main(string[] args)
         {
+            int[] numeros = new int[4];
 
-            var MiVariable = new { Nombre = "Ivan", Edad = 19 };
+            numeros[0] = 7;
+            numeros[1] = 8;
+            numeros[2] = 9;
+            numeros[3] = 10;
 
-            Console.WriteLine("mi nombre es " + MiVariable.Nombre + " y tengo " + MiVariable.Edad + " anios");
-            Console.WriteLine($"mi nombre es {MiVariable.Nombre} y tendo {MiVariable.Edad} anios");
-            /*
-            // Crear un objeto coche
-            Coche miCoche = new Coche("Toyota", "Corolla", 2020, 25000);
-            
-            // Usar métodos del coche
-            miCoche.Acelerar(50);
-            miCoche.Frenar(20);
-            
-            // Mostrar información del coche
-            miCoche.MostrarInformacion();
-            
-            // Usar getters y setters
-            Console.WriteLine($"Marca actual: {miCoche.Marca}");
-            miCoche.Marca = "Honda"; // Cambiar la marca
-            Console.WriteLine($"Nueva marca: {miCoche.Marca}");
-            
-            Console.WriteLine($"Precio actual: {miCoche.Precio}");
-            miCoche.Precio = 27000; // Cambiar el precio
-            Console.WriteLine($"Nuevo precio: {miCoche.Precio}");
-            
-            // Intentar establecer un precio negativo (se rechazará)
-            miCoche.Precio = -1000;
-            Console.WriteLine($"Precio después de intento inválido: {miCoche.Precio}");
-            */
+            ProcesaDatos(numeros);
         }
-    }
+        static void ProcesaDatos(int[] datos)
+        {
+            foreach (int dato in datos)
+            {
+                Console.WriteLine(dato);
 
-    class Coche
-    {
-        // Campos privados
-        private string marca;
-        private string modelo;
-        private int año;
-        private double precio;
-        private int velocidadActual;
-        
-        // Constructor
-        public Coche(string marca, string modelo, int año, double precio)
-        {
-            this.marca = marca;
-            this.modelo = modelo;
-            this.año = año;
-            this.precio = precio;
-            this.velocidadActual = 0;
-        }
-        
-        // Propiedades (getters y setters)
-        public string Marca
-        {
-            get { return marca; }
-            set { marca = value; }
-        }
-        
-        public string Modelo
-        {
-            get { return modelo; }
-            set { modelo = value; }
-        }
-        
-        public int Año
-        {
-            get { return año; }
-            set { año = value; }
-        }
-        
-        public double Precio
-        {
-            get { return precio; }
-            set 
-            { 
-                // Validación para evitar precios negativos
-                if (value >= 0)
-                {
-                    precio = value;
-                }
-                else
-                {
-                    Console.WriteLine("Error: El precio no puede ser negativo.");
-                }
             }
+
+            for (int i = 0;i < datos.Length; i++)
+            {
+                datos[i] += 10;
+                Console.WriteLine(datos[i]);
+            }
+
         }
-        
-        public int VelocidadActual
-        {
-            get { return velocidadActual; }
-            private set { velocidadActual = value; } // Solo se puede modificar internamente
-        }
-        
-        // Métodos
-        public void Acelerar(int incremento)
-        {
-            VelocidadActual += incremento;
-            Console.WriteLine($"Acelerando... Velocidad actual: {VelocidadActual} km/h");
-        }
-        
-        public void Frenar(int decremento)
-        {
-            VelocidadActual = Math.Max(0, VelocidadActual - decremento);
-            Console.WriteLine($"Frenando... Velocidad actual: {VelocidadActual} km/h");
-        }
-        
-        public void MostrarInformacion()
-        {
-            Console.WriteLine($"Información del coche:");
-            Console.WriteLine($"Marca: {Marca}");
-            Console.WriteLine($"Modelo: {Modelo}");
-            Console.WriteLine($"Año: {Año}");
-            Console.WriteLine($"Precio: {Precio:C}");
-            Console.WriteLine($"Velocidad actual: {VelocidadActual} km/h");
-        }
+
+            
     }
+
+   
 }

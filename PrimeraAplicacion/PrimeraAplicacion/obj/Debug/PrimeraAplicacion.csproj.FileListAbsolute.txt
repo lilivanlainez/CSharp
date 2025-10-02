@@ -22,3 +22,4 @@ C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\PrimeraAplicacion\PrimeraAplica
 C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.exe
 C:\Users\nelso\OneDrive\Documentos\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.pdb
 >>>>>>> Stashed changes
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.exe.config
