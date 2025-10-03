@@ -1,0 +1,15 @@
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\bin\Debug\Primera_interfaz.exe.config
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\bin\Debug\Primera_interfaz.exe
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\bin\Debug\Primera_interfaz.pdb
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\Primera_interfaz.csproj.AssemblyReference.cache
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\MainWindow.g.cs
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\App.g.cs
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\Primera_interfaz_MarkupCompile.cache
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\Primera_interfaz_MarkupCompile.lref
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\MainWindow.baml
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\Primera_interfaz.g.resources
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\Primera_interfaz.Properties.Resources.resources
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\Primera_interfaz.csproj.GenerateResource.cache
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\Primera_interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\Primera_interfaz.exe
+C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Debug\Primera_interfaz.pdb
