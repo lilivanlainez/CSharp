@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nelson Colorado\\Documents\\GitHub\\CSharp\\Primera_interfaz\\",
+  "WorkspaceRootPath": "C:\\Users\\IvanW11_NAS\\Documents\\GitHub\\CSharp\\Primera_interfaz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2B8D70F-6886-4292-805A-34D7DD73D1CF}|Primera_interfaz\\Primera_interfaz.csproj|c:\\users\\nelson colorado\\documents\\github\\csharp\\primera_interfaz\\primera_interfaz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C2B8D70F-6886-4292-805A-34D7DD73D1CF}|Primera_interfaz\\Primera_interfaz.csproj|c:\\users\\ivanw11_nas\\documents\\github\\csharp\\primera_interfaz\\primera_interfaz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C2B8D70F-6886-4292-805A-34D7DD73D1CF}|Primera_interfaz\\Primera_interfaz.csproj|solutionrelative:primera_interfaz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B8D70F-6886-4292-805A-34D7DD73D1CF}|Primera_interfaz\\Primera_interfaz.csproj|c:\\users\\nelson colorado\\documents\\github\\csharp\\primera_interfaz\\primera_interfaz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B8D70F-6886-4292-805A-34D7DD73D1CF}|Primera_interfaz\\Primera_interfaz.csproj|solutionrelative:primera_interfaz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2B8D70F-6886-4292-805A-34D7DD73D1CF}|Primera_interfaz\\Primera_interfaz.csproj|C:\\Users\\IvanW11_NAS\\Documents\\GitHub\\CSharp\\Primera_interfaz\\Primera_interfaz\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B8D70F-6886-4292-805A-34D7DD73D1CF}|Primera_interfaz\\Primera_interfaz.csproj|solutionrelative:Primera_interfaz\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,30 +24,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Nelson Colorado\\Documents\\GitHub\\CSharp\\Primera_interfaz\\Primera_interfaz\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IvanW11_NAS\\Documents\\GitHub\\CSharp\\Primera_interfaz\\Primera_interfaz\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Primera_interfaz\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Nelson Colorado\\Documents\\GitHub\\CSharp\\Primera_interfaz\\Primera_interfaz\\MainWindow.xaml*",
-              "RelativeToolTip": "Primera_interfaz\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\IvanW11_NAS\\Documents\\GitHub\\CSharp\\Primera_interfaz\\Primera_interfaz\\MainWindow.xaml",
+              "RelativeToolTip": "Primera_interfaz\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-03T19:37:05.894Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nelson Colorado\\Documents\\GitHub\\CSharp\\Primera_interfaz\\Primera_interfaz\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IvanW11_NAS\\Documents\\GitHub\\CSharp\\Primera_interfaz\\Primera_interfaz\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Primera_interfaz\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Nelson Colorado\\Documents\\GitHub\\CSharp\\Primera_interfaz\\Primera_interfaz\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IvanW11_NAS\\Documents\\GitHub\\CSharp\\Primera_interfaz\\Primera_interfaz\\MainWindow.xaml.cs",
               "RelativeToolTip": "Primera_interfaz\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T19:37:02.563Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

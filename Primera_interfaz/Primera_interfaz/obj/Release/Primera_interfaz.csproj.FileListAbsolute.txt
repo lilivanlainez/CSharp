@@ -13,3 +13,19 @@ C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interf
 C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.csproj.CoreCompileInputs.cache
 C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.exe
 C:\Users\Nelson Colorado\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\bin\Release\Primera_interfaz.exe.config
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\bin\Release\Primera_interfaz.exe
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\bin\Release\Primera_interfaz.pdb
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.csproj.AssemblyReference.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.exe.config
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\MainWindow.g.cs
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\App.g.cs
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz_MarkupCompile.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz_MarkupCompile.lref
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\MainWindow.baml
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.g.resources
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.Properties.Resources.resources
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.csproj.GenerateResource.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.csproj.CoreCompileInputs.cache
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.exe
+C:\Users\IvanW11_NAS\Documents\GitHub\CSharp\Primera_interfaz\Primera_interfaz\obj\Release\Primera_interfaz.pdb

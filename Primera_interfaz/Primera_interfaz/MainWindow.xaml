@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="Ivan Lainez" Height="450" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Ivan Lainez&#xD;&#xA;" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="89,50,0,0" VerticalAlignment="Top"/>
+        <Button Content="Envia" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="92,92,0,0" VerticalAlignment="Top" Click="Button_Click" Height="67" Width="154"/>
+
     </Grid>
 </Window>
